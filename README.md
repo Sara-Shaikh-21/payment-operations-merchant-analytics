@@ -262,4 +262,4 @@ All merchant names, transaction references, and payment records are fictional.
 
 Computer Engineering | Business Operations Analytics | Technical Support | SQL & Power BI
 
-[LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL) | [Portfolio](YOUR_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/sara-shaikh/) | [GitHub](https://github.com/Sara-Shaikh-21) | [Portfolio](https://sara-shaikh.netlify.app/)
